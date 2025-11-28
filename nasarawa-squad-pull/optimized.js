@@ -6,7 +6,7 @@ function pullIntoNasarawaSquad() {
     if (!sheet) throw new Error('Sheet "Nasarawa Squad" does not exist.');
 
     // === CONFIG ===
-    const sourceId = "1Kh6OkzWFT0R5gZo0K7gAhEIYzpftSIj-1AACe1k4rvk";
+    const sourceId = "1Kh6OkzWFT0R5****K7gAhEIYzpftSIj-1AACe1k4rvk";
     const sourceSheetName = "2025 Squad Export";
     const sourceRange = "E2:AI";
 
